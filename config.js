@@ -81,7 +81,7 @@ const CONFIG = {
         musicUrl: "https://res.cloudinary.com/dtbc6wcxh/video/upload/v1778230314/The_Kid_LAROI_-_NIGHTS_LIKE_THIS_Lyrics_-_320_Kbps_jylmeo.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
-        volume: 50                         // Volume level 1 to 100)
+        volume: 0.5                         // Volume level 0.0 to 1.0)
     }
 };
 
