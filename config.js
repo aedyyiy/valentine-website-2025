@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Hadiahhh nnti claim hehe!",
+        message: "https://egreet.in/bouquet/adyyiy!",
         emojis: "🎁💖🤗💝"  // These will bounce around
     },
 
